@@ -1,0 +1,8 @@
+.gradle/
+build/
+out/
+!**/src/**/build
+!**/test/**/build
+*.iml
+!**/testData/**/*.iml
+.idea/
